@@ -44,7 +44,7 @@ const services = [
     price: 'Rp 550.000',
   },
   {
-    image: '/images/card7.png',
+    image: '/images/card7.jpeg',
     name: 'Dry Massage',
     desc: 'Teknik pijat tanpa minyak untuk melemaskan otot kaku dan melancarkan aliran darah tanpa rasa lengket.',
     duration: '90 menit',
@@ -58,7 +58,7 @@ const services = [
     price: 'Rp 550.000',
   },
   {
-    image: '/images/card9.png',
+    image: '/images/card9.jpeg',
     name: 'Massage and Kerokan',
     desc: 'Kombinasi pijat relaksasi dan teknik kerokan tradisional untuk membantu meredakan gejala masuk angin dan pegal-pegal.',
     duration: '90 menit',
