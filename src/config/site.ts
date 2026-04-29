@@ -8,10 +8,10 @@ export const siteConfig = {
   tagline: "Massage Panggilan Jakarta — 24 Jam",
 
   // WhatsApp
-  whatsappNumber: "6281234567890", // Format: country code + number, no +
+  whatsappNumber: "6287761030810", // Format: country code + number, no +
 
   // Contact
-  phone: "+62 812-3456-7890",
+  phone: "+62 877-6103-0810",
   email: "info@medussaspa.com",
   operatingHours: "24/7 — Setiap Hari",
 

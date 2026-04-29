@@ -9,7 +9,7 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <div className="flex items-center gap-2 mb-4">
-              <span className="text-2xl">🌿</span>
+              <span className="text-2xl">🔱</span>
               <span className="font-heading text-xl font-bold">{siteConfig.brandName}</span>
             </div>
             <p className="text-white/60 text-sm leading-relaxed mb-5">
