@@ -30,11 +30,11 @@ const services = [
     price: 'Rp 350.000',
   },
   {
-    image: '/images/card5.png',
+    image: '/images/card5.jpeg',
     name: 'Body Scrub & Lulur',
     desc: 'Perawatan kulit tradisional untuk mengangkat sel kulit mati dan mencerahkan kulit.',
     duration: '60 menit',
-    price: 'Rp 280.000',
+    price: 'Rp 400.000',
   },
   {
     image: '/images/card6.png',
