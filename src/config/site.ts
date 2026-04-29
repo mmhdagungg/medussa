@@ -9,14 +9,14 @@ export const siteConfig = {
 
   // WhatsApp
   whatsappNumber: "6281234567890", // Format: country code + number, no +
-  
+
   // Contact
   phone: "+62 812-3456-7890",
   email: "info@medussaspa.com",
   operatingHours: "24/7 — Setiap Hari",
 
   // Coverage areas
-  areas: ["Jakarta Selatan", "Jakarta Pusat", "Jakarta Barat", "Jakarta Timur", "Jakarta Utara"],
+  areas: ["Jakarta Selatan", "Jakarta Pusat", "Jakarta Barat", "Jakarta Timur", "Jakarta Utara", "Bandung"],
 
   // Social media (placeholder)
   social: {
