@@ -48,21 +48,21 @@ const services = [
     name: 'Dry Massage',
     desc: 'Teknik pijat tanpa minyak untuk melemaskan otot kaku dan melancarkan aliran darah tanpa rasa lengket.',
     duration: '90 menit',
-    price: 'Rp 550.000',
+    price: 'Rp 400.000',
   },
   {
     image: '/images/card8.jpeg',
     name: 'Balinese Massage',
     desc: 'Pijatan tradisional Bali dengan teknik deep tissue dan aromaterapi untuk relaksasi tubuh dan pikiran secara total.',
     duration: '90 menit',
-    price: 'Rp 550.000',
+    price: 'Rp 400.000',
   },
   {
     image: '/images/card9.jpeg',
-    name: 'Massage and Kerokan',
+    name: 'Massage & Kerokan',
     desc: 'Kombinasi pijat relaksasi dan teknik kerokan tradisional untuk membantu meredakan gejala masuk angin dan pegal-pegal.',
     duration: '90 menit',
-    price: 'Rp 550.000',
+    price: 'Rp 450.000',
   },
 ];
 
