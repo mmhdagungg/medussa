@@ -1,12 +1,12 @@
 import { useState } from 'react';
 
 const galleryImages = [
-  { src: '/images/gallery-1.png', alt: 'Professional massage treatment' },
-  { src: '/images/gallery-2.png', alt: 'Spa equipment and essential oils' },
-  { src: '/images/gallery-3.png', alt: 'Aromatherapy candles and ambiance' },
-  { src: '/images/gallery-4.png', alt: 'Hot stone therapy setup' },
-  { src: '/images/about.png', alt: 'Treatment room interior' },
-  { src: '/images/hero-bg.png', alt: 'Spa atmosphere' },
+  { src: 'https://images.pexels.com/photos/3757942/pexels-photo-3757942.jpeg', alt: 'Spa candles and warm ambiance' },
+  { src: 'https://images.pexels.com/photos/3865676/pexels-photo-3865676.jpeg', alt: 'Massage therapy with warm lighting' },
+  { src: 'https://images.pexels.com/photos/3997986/pexels-photo-3997986.jpeg', alt: 'Spa essential oils and aromatherapy' },
+  { src: 'https://images.pexels.com/photos/3865675/pexels-photo-3865675.jpeg', alt: 'Relaxing spa treatment room' },
+  { src: 'https://images.pexels.com/photos/3997991/pexels-photo-3997991.jpeg', alt: 'Hot stone massage therapy' },
+  { src: 'https://images.pexels.com/photos/3764568/pexels-photo-3764568.jpeg', alt: 'Relaxing back massage therapy' },
 ];
 
 export default function Gallery() {

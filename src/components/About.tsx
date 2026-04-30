@@ -9,7 +9,7 @@ export default function About() {
           <div className="fade-up relative">
             <div className="rounded-2xl overflow-hidden shadow-[0_16px_48px_rgba(0,0,0,0.12)]">
               <img
-                src="/images/about.png"
+                src="/images/card1.jpeg"
                 alt="Suasana spa Medussa"
                 className="w-full h-[300px] md:h-[420px] object-cover"
               />
