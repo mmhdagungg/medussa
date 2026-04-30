@@ -35,12 +35,12 @@ export default function Navbar() {
     >
       <div className="max-w-[1200px] mx-auto px-5 md:px-8 flex items-center justify-between h-full">
         {/* Logo */}
-        <a href="#home" className="flex items-center gap-2 z-10" onClick={closeMenu}>
-          <span className="text-2xl">🔱</span>
-          <span className={`font-heading text-xl font-bold transition-colors duration-500
-            ${scrolled ? 'text-gray-900' : 'text-white'}`}>
-            {siteConfig.brandName}
-          </span>
+        <a href="#home" className="flex items-center z-10" onClick={closeMenu}>
+          <img 
+            src="/images/logo-navbar.jpeg" 
+            alt={siteConfig.brandName}
+            className="h-16 w-auto object-contain"
+          />
         </a>
 
         {/* Desktop Links */}

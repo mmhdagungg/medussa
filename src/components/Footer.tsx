@@ -8,9 +8,12 @@ export default function Footer() {
           
           {/* Brand */}
           <div>
-            <div className="flex items-center gap-2 mb-4">
-              <span className="text-2xl">🔱</span>
-              <span className="font-heading text-xl font-bold">{siteConfig.brandName}</span>
+            <div className="flex items-center mb-4">
+              <img 
+                src="/images/logo-navbar.jpeg" 
+                alt={siteConfig.brandName}
+                className="h-16 w-auto object-contain"
+              />
             </div>
             <p className="text-white/60 text-sm leading-relaxed mb-5">
               Layanan spa &amp; massage panggilan profesional di Jakarta.

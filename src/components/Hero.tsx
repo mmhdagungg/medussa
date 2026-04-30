@@ -5,7 +5,7 @@ export default function Hero() {
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden" id="home">
       {/* Background */}
       <div className="absolute inset-0">
-        <img src="/images/hero-bg.png" alt="Spa background" className="w-full h-full object-cover" />
+        <img src="/images/logo-navbar.jpeg" alt="Spa background" className="w-full h-full object-cover" />
         <div className="absolute inset-0 bg-gradient-to-b from-gray-900/55 to-gray-900/70" />
       </div>
 
