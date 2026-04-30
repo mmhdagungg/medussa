@@ -5,7 +5,7 @@
 export const siteConfig = {
   // Brand
   brandName: "Medussa Spa",
-  tagline: "Massage Panggilan Jakarta — 24 Jam",
+  tagline: "Medussa Spa & Massage (Home Service Jakarta)",
 
   // WhatsApp
   whatsappNumber: "6287761030810", // Format: country code + number, no +
