@@ -5,5 +5,5 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/', // Akan otomatis menggunakan repo name jika di GitHub Pages
+  base: '/medussa/', // Akan otomatis menggunakan repo name jika di GitHub Pages
 })
