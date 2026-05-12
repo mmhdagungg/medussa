@@ -1,6 +1,8 @@
 import { siteConfig, getWhatsAppLink, waMessages } from '../config/site';
 
 export default function Footer() {
+  const basePath = import.meta.env.BASE_URL;
+  
   return (
     <footer className="bg-sage-900 text-white pt-14 md:pt-20 pb-6" id="kontak">
       <div className="max-w-[1200px] mx-auto px-5 md:px-8">
@@ -10,7 +12,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center mb-4">
               <img 
-                src="/images/logo-navbar.jpeg" 
+                src={`${basePath}images/logo-navbar.jpeg`}
                 alt={siteConfig.brandName}
                 className="h-16 w-auto object-contain"
               />

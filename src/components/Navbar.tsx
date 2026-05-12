@@ -12,6 +12,7 @@ const navLinks = [
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
+  const basePath = import.meta.env.BASE_URL;
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 40);
@@ -37,7 +38,7 @@ export default function Navbar() {
         {/* Logo */}
         <a href="#home" className="flex items-center z-10" onClick={closeMenu}>
           <img 
-            src="/images/logo-navbar.jpeg" 
+            src={`${basePath}images/logo-navbar.jpeg`}
             alt={siteConfig.brandName}
             className="h-16 w-auto object-contain"
           />
