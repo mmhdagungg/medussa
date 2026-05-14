@@ -24,8 +24,8 @@ export default function Footer() {
             <div className="flex gap-3">
               {[
                 { href: siteConfig.social.instagram, label: 'IG' },
-                { href: siteConfig.social.facebook, label: 'FB' },
-                { href: siteConfig.social.tiktok, label: 'TT' },
+                // { href: siteConfig.social.facebook, label: 'FB' },
+                // { href: siteConfig.social.tiktok, label: 'TT' },
               ].map((s) => (
                 <a
                   key={s.label}

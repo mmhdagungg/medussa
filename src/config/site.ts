@@ -20,7 +20,7 @@ export const siteConfig = {
 
   // Social media (placeholder)
   social: {
-    instagram: "https://instagram.com/medussaspa",
+    instagram: "https://instagram.com/medussa.spa",
     facebook: "https://facebook.com/medussaspa",
     tiktok: "https://tiktok.com/@medussaspa",
   },
